@@ -1,0 +1,15 @@
+{
+  "tabWidth": 2,
+  "tabs": false,
+  "semi": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "bracketLine": true,
+  "arrowParens": "always",
+  "printWidth": 120,
+  "proseWrap": "always",
+  "htmlWhitespaceSensitivity": "strict",
+  "endOfLine": "lf",
+  "embeddedLanguageFormatting": "auto",
+  "singleQuote": false
+}
